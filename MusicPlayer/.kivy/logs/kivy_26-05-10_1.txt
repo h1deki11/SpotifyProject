@@ -1,0 +1,280 @@
+[INFO   ] Logger: Record log in C:\Users\Мои документы\PycharmProjects\MusicPlayer\.kivy\logs\kivy_26-05-10_1.txt
+[WARNING] Kivy: KIVY_DESKTOP_PATH_ID not set. If your application targets desktop platforms, set it to provide a user-friendly application name for directories. See https://kivy.org/doc/stable/guide/environment.html
+[INFO   ] deps: Successfully imported "kivy_deps.gstreamer_dev" 0.3.4
+[INFO   ] deps: Successfully imported "kivy_deps.gstreamer" 0.3.4
+[INFO   ] deps: Successfully imported "kivy_deps.glew" 0.3.1
+[INFO   ] deps: Successfully imported "kivy_deps.glew_dev" 0.3.1
+[INFO   ] deps: Successfully imported "kivy_deps.sdl3" 0.1.0
+[INFO   ] deps: Successfully imported "kivy_deps.sdl3_dev" 0.1.0
+[INFO   ] Kivy: v3.0.0.dev0
+[INFO   ] Kivy: Installed at "C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\__init__.py"
+[INFO   ] Python: v3.14.3 (tags/v3.14.3:323c59a, Feb  3 2026, 16:04:56) [MSC v.1944 64 bit (AMD64)]
+[INFO   ] Python: Interpreter at "C:\Users\Мои документы\PycharmProjects\MusicPlayer\.venv\Scripts\python.exe"
+[INFO   ] Logger: Purge log fired. Processing...
+[INFO   ] Logger: Purge finished!
+[WARNING] stderr: C:\Users\Мои документы\AppData\Local\Temp\pip-build-env-7rq6s3hz\overlay\Lib\site-packages\setuptools\dist.py:765: SetuptoolsDeprecationWarning: License classifiers are deprecated.
+[WARNING] stderr: !!
+[WARNING] stderr: 
+[WARNING] stderr:         ********************************************************************************
+[WARNING] stderr:         Please consider removing the following classifiers in favor of a SPDX license expression:
+[WARNING] stderr: 
+[WARNING] stderr:         License :: OSI Approved :: MIT License
+[WARNING] stderr: 
+[WARNING] stderr:         See https://packaging.python.org/en/latest/guides/writing-pyproject-toml/#license for details.
+[WARNING] stderr:         ********************************************************************************
+[WARNING] stderr: 
+[WARNING] stderr: !!
+[WARNING] stderr:   self._finalize_license_expression()
+[INFO   ] running dist_info
+[INFO   ] creating C:\Users\Мои документы\AppData\Local\Temp\pip-modern-metadata-fcuamdue\Kivy.egg-info
+[INFO   ] writing C:\Users\Мои документы\AppData\Local\Temp\pip-modern-metadata-fcuamdue\Kivy.egg-info\PKG-INFO
+[INFO   ] writing dependency_links to C:\Users\Мои документы\AppData\Local\Temp\pip-modern-metadata-fcuamdue\Kivy.egg-info\dependency_links.txt
+[INFO   ] writing requirements to C:\Users\Мои документы\AppData\Local\Temp\pip-modern-metadata-fcuamdue\Kivy.egg-info\requires.txt
+[INFO   ] writing top-level names to C:\Users\Мои документы\AppData\Local\Temp\pip-modern-metadata-fcuamdue\Kivy.egg-info\top_level.txt
+[INFO   ] writing manifest file 'C:\Users\Мои документы\AppData\Local\Temp\pip-modern-metadata-fcuamdue\Kivy.egg-info\SOURCES.txt'
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\properties.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\_event.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\_metrics.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\_event.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\common.pxi won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\instructions.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\vbo.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\buffer.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\cgl.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\common.pxi won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\include\gl_redirect.h won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\vertex.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\context_instructions.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\transformation.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\texture.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\compiler.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\shader.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\../_event.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\context_instructions.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\transformation.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\instructions.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\vbo.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\buffer.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\cgl.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\common.pxi won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\include\gl_redirect.h won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\vertex.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\compiler.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\shader.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\texture.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\../_event.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\transformation.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\instructions.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\vbo.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\buffer.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\cgl.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\common.pxi won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\include\gl_redirect.h won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\vertex.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\context_instructions.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\texture.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\compiler.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\shader.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\../_event.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\opcodes.pxi won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\transformation.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\context.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\instructions.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\vbo.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\buffer.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\cgl.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\common.pxi won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\include\gl_redirect.h won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\vertex.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\context_instructions.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\texture.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\compiler.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\shader.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\../_event.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\opcodes.pxi won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\cgl.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\common.pxi won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\include\gl_redirect.h won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\instructions.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\vbo.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\buffer.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\vertex.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\context_instructions.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\transformation.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\texture.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\compiler.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\shader.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\../_event.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\opcodes.pxi won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\cgl.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\common.pxi won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\include\gl_redirect.h won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\context.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\instructions.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\vbo.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\buffer.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\vertex.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\context_instructions.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\transformation.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\texture.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\compiler.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\shader.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\../_event.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\common.pxi won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\cgl.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\include\gl_redirect.h won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\opengl_utils_def.pxi won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\cgl.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\common.pxi won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\include\gl_redirect.h won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\common.pxi won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\cgl.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\include\gl_redirect.h won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\vertex.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\transformation.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\context.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\instructions.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\vbo.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\buffer.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\context_instructions.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\texture.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\compiler.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\shader.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\../_event.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\gl_debug_logger.pxi won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\opcodes.pxi won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\cgl.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\common.pxi won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\include\gl_redirect.h won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\gl_debug_logger.pxi won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\instructions.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\vbo.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\buffer.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\vertex.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\context_instructions.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\transformation.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\texture.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\compiler.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\shader.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\../_event.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\opcodes.pxi won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\cgl.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\common.pxi won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\include\gl_redirect.h won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\common.pxi won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\opengl_utils_def.pxi won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\context.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\instructions.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\vbo.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\buffer.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\cgl.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\include\gl_redirect.h won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\vertex.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\context_instructions.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\transformation.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\texture.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\compiler.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\shader.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\../_event.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\opengl_utils.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\img_tools.pxi won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\gl_debug_logger.pxi won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\common.pxi won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\context.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\instructions.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\vbo.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\buffer.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\cgl.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\include\gl_redirect.h won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\vertex.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\context_instructions.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\transformation.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\texture.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\compiler.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\shader.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\../_event.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\gl_debug_logger.pxi won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\common.pxi won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\cgl.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\include\gl_redirect.h won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\common.pxi won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\vbo.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\buffer.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\cgl.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\include\gl_redirect.h won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\vertex.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\instructions.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\context_instructions.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\transformation.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\texture.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\compiler.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\shader.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\../_event.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\vertex_instructions.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\vertex_instructions_line.pxi won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\stencil_instructions.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\cgl.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\common.pxi won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\include\gl_redirect.h won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\cgl.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\common.pxi won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\include\gl_redirect.h won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\cgl.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\common.pxi won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\include\gl_redirect.h won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\cgl.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\common.pxi won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\include\gl_redirect.h won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\cgl.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\common.pxi won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\include\gl_redirect.h won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\common.pxi won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\texture.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\cgl.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\include\gl_redirect.h won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\instructions.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\vbo.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\buffer.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\vertex.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\context_instructions.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\transformation.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\compiler.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\shader.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\../_event.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\vertex_instructions.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\tesselator.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\fbo.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\cgl.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\common.pxi won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\include\gl_redirect.h won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\instructions.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\vbo.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\buffer.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\vertex.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\context_instructions.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\transformation.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\texture.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\compiler.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\shader.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\../_event.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\instructions.pyx won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\opcodes.pxi won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\context.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\graphics\vertex_instructions.pxd won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\lib/sdl3.pxi won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\lib/sdl3.pxi won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\lib/sdl3.pxi won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\lib/sdl3.pxi won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\lib/sdl3.pxi won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\lib/sdl3.pxi won't be automatically included in the manifest: the path must be relative
+[INFO   ] dependency C:\Users\Мои документы\AppData\Local\Temp\pip-req-build-9chxgzqm\kivy\lib/gstplayer/_gstplayer.h won't be automatically included in the manifest: the path must be relative
+[INFO   ] reading manifest file 'C:\Users\Мои документы\AppData\Local\Temp\pip-modern-metadata-fcuamdue\Kivy.egg-info\SOURCES.txt'
+[INFO   ] reading manifest template 'MANIFEST.in'
+[WARNING] warning: no files found matching '*.txt' under directory 'kivy\tools'
+[WARNING] warning: no files found matching '*.bat' under directory 'kivy\tools'
+[WARNING] warning: no files found matching '*.pyd' under directory 'kivy'
+[WARNING] warning: no files found matching '*.m' under directory 'kivy'
+[INFO   ] adding license file 'LICENSE'
+[INFO   ] adding license file 'AUTHORS'
+[INFO   ] writing manifest file 'C:\Users\Мои документы\AppData\Local\Temp\pip-modern-metadata-fcuamdue\Kivy.egg-info\SOURCES.txt'
+[INFO   ] creating 'C:\Users\Мои документы\AppData\Local\Temp\pip-modern-metadata-fcuamdue\kivy-3.0.0.dev0.dist-info'
